@@ -1,3 +1,55 @@
+# Aplikasi Rekam Medis
+
+**Aplikasi Rekam Medis** adalah solusi modern untuk manajemen informasi kesehatan yang dibangun menggunakan Laravel 10 dan PHP 8. Aplikasi ini dirancang untuk memudahkan pengelolaan data medis dengan antarmuka yang intuitif dan fitur yang kuat.
+
+## Fitur Utama
+
+### Menu Utama
+
+- **Dashboard**
+  - Halaman utama yang memberikan gambaran umum mengenai status kesehatan, statistik, dan ringkasan data penting lainnya.
+  - Dapatkan insight cepat dengan grafik, statistik, dan laporan yang mudah dipahami.
+
+- **Rekam Medis Personal**
+  - Fitur untuk mengelola rekam medis pribadi pasien.
+  - Melihat, menambahkan, dan memperbarui informasi kesehatan pasien termasuk riwayat medis, catatan kunjungan, dan data penting lainnya.
+
+- **Rekam Medis Tenaga Kesehatan**
+  - Modul untuk mengelola rekam medis tenaga kesehatan seperti dokter, perawat, dan staf medis lainnya.
+  - Memungkinkan pengelolaan data tenaga kesehatan, termasuk jadwal, spesialisasi, dan catatan medis terkait.
+
+- **Cari Tenaga Kesehatan**
+  - Fitur pencarian untuk menemukan tenaga kesehatan berdasarkan kriteria tertentu seperti nama, spesialisasi, dan lokasi.
+  - Memudahkan pengguna untuk mencari dan memilih tenaga kesehatan yang sesuai dengan kebutuhan mereka.
+
+- **Tenaga Kesehatan Saya**
+  - Halaman profil tenaga kesehatan yang berisi informasi pribadi dan profesional mereka.
+  - Termasuk detail kontak, spesialisasi, dan riwayat pekerjaan.
+
+## Fitur Utama
+
+- **Antarmuka Pengguna yang Ramah**
+  - Desain yang bersih dan mudah digunakan untuk memastikan akses yang cepat dan efisien ke berbagai fitur.
+
+- **Keamanan Data**
+  - Implementasi standar keamanan tinggi untuk melindungi data medis sensitif.
+
+- **Integrasi Mudah**
+  - Mudah diintegrasikan dengan sistem lain dan memungkinkan kustomisasi sesuai kebutuhan.
+
+## Teknologi
+
+- **Framework**: Laravel 9
+- **PHP**: 8
+
+## Instalasi
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/baguswry2001/aplikasi-rekam-medis.git
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
